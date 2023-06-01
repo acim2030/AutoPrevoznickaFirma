@@ -8,7 +8,8 @@
 
 const currentlyLearning = {
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+ 
+ tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
  },
 
 - 📫 How to reach me ...
